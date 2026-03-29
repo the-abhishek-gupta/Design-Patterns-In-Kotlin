@@ -8,6 +8,6 @@ import org.example.structural.StructuralMain
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
 //    CreationalMain().main()
-//    BehaviouralMain().main()
-    StructuralMain().main()
+    BehaviouralMain().main()
+//    StructuralMain().main()
 }
